@@ -15,6 +15,6 @@ public class AutoApplication {
 
 	@GetMapping
 	public String hello() {
-		return "Hola Mundo desde Spring Boot en contenedor CI!";
+		return "Hola Mundo desde Spring Boot en contenedor CI!, esta es una prueba de que si se puede hacer las cosas como de sebe";
 	}
 }
